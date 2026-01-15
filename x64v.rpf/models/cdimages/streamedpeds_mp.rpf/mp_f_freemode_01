@@ -2,14 +2,143 @@
     Object: White Incomplete Shirt
     Polygons: 302
     Textures: accs_diff_000_a_uni.ytd
+    Embedded Textures: jbib_normal_000 /// accs_pall_x /// jbib_spec_000
 ]
 [ accs_001_u.ydd
     Objects: White Incomplete Shirt
     Polygons: 82
     Textures: accs_diff_000_a_uni.ytd /// accs_diff_001_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_pall_001_x /// accs_spec_000
 ]
 [ accs_002_u.ydd
     Objects: Red Checkerboard Square
     Polygons: 2
     Textures: accs_diff_002_a_uni.ytd /// lowr_diff_002_a_whi.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_003_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 2
+    Textures: lowr_diff_003_a_whi.ytd /// accs_diff_003_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_004_u.ydd
+    Objects: Checkerboard Incomplete Shirt
+    Polygons: 242
+    Textures: lowr_diff_004_a_whi.ytd /// accs_diff_004_a_uni.ytd
+    Embedded Textures: jbib_spec_004 /// jbib_normal_004
+]
+[ accs_005_u.ydd
+    Objects: White Incomplete Crop-Top
+    Polygons: 84
+    Textures: lowr_diff_005_a_whi.ytd /// accs_diff_005_a_uni.ytd
+    Embedded Textures: jbib_normal_005 /// jbib_spec_005
+]
+[ accs_006_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 2
+    Textures: lowr_diff_006_a_whi.ytd /// accs_diff_006_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_007_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 4
+    Textures: lowr_diff_007_a_whi.ytd /// accs_diff_007_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_008_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 4
+    Textures: lowr_diff_008_a_whi.ytd /// accs_diff_008_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_009_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 4
+    Textures: lowr_diff_009_a_whi.ytd /// accs_diff_009_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_010_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 2
+    Textures: lowr_diff_010_a_whi.ytd /// accs_diff_010_a_uni.ytd
+    Embedded Textures: accs_normal_000 /// accs_spec_000
+]
+[ accs_011_u.ydd
+    Objects: Baby Blue Incomplete Tank-Top
+    Polygons: 322
+    Textures: jbib_diff_011_a_uni.ytd /// accs_diff_011_a_uni.ytd
+    Embedded Textures: jbib_spec_011 /// jbib_normal_011
+]
+[ accs_012_u.ydd
+    Objects: Checkerboard Incomplete Blouse
+    Polygons: 555
+    Textures: jbib_diff_012_a_uni.ytd /// accs_diff_012_a_uni.ytd
+    Embedded Textures: jbib_normal_012 /// jbib_spec_012
+]
+[ accs_013_u.ydd
+    Objects: Black Incomplete Corset
+    Polygons: 371
+    Textures: jbib_diff_013_a_uni.ytd /// accs_diff_013_a_uni.ytd
+    Embedded Textures: jbib_spec_013 /// jbib_normal_013
+]
+[ accs_014_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 2
+    Textures: lowr_diff_014_a_whi.ytd /// accs_diff_014_a_uni.ytd
+    Embedded Textures: NONE
+]
+[ accs_015_u.ydd
+    Objects: Black Incomplete Bikini Top
+    Polygons: 30
+    Textures: lowr_diff_015_a_whi.ytd /// accs_diff_015_a_uni.ytd
+    Embedded Textures: jbib_normal_015 /// jbib_spec_015
+]
+[ berd_000_u.ydd
+    Objects: Purple Checkerboard Square
+    Polygons: 2
+    Textures: decl_diff_000_a_uni.ytd /// berd_diff_000_a_uni.ytd
+    Embedded Textures: NONE
+]
+[ berd_001_u.ydd
+    Objects: Pig Mask
+    Polygons: 2,008
+    Textures: decl_diff_001_a_uni.ytd /// berd_diff_001_a_uni.ytd
+    Embedded Textures: berd_spec_001 /// berd_normal_001
+]
+[ berd_002_u.ydd
+    Objects: Silver Skull Mask
+    Polygons: 1,110
+    Textures: decl_diff_002_a_uni.ytd /// berd_diff_002_a_uni.ytd
+    Embedded Textures: berd_normal_002 /// berd_spec_002
+]
+[ berd_003_u.ydd
+    Objects: Space Monkey Mask
+    Polygons: 2,632
+    Textures: decl_diff_003_a_uni.ytd /// berd_diff_003_a_uni.ytd
+    Embedded Textures: berd_spec_003 /// berd_normal_003
+]
+[ berd_004_u.ydd
+    Objects: White Hockey Mask
+    Polygons: 2,996
+    Textures: decl_diff_004_a_uni.ytd /// berd_diff_004_a_uni.ytd
+    Embedded Textures: berd_spec_004 /// berd_normal_004
+]
+[ berd_005_u.ydd
+    Objects: Ape Mask
+    Polygons: 1,470
+    Textures: decl_diff_005_a_uni.ytd /// berd_diff_005_a_uni.ytd
+    Embedded Textures: berd_spec_005 /// berd_normal_005
+]
+[ berd_006_u.ydd
+    Objects: Carnival Orange Mask
+    Polygons: 1,508
+    Textures: decl_diff_006_a_uni.ytd /// berd_diff_006_a_uni.ytd
+    Embedded Textures: berd_spec_006 /// berd_normal_006
+]
+[ berd_007_u.ydd
+    Objects: Green Monster Mask
+    Polygons: 4,262
+    Textures: decl_diff_007_a_uni.ytd /// berd_diff_007_a_uni.ytd
+    Embedded Textures: berd_normal_007 /// berd_spec_007
 ]
