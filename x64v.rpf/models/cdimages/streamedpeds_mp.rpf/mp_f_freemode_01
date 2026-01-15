@@ -1,3 +1,15 @@
-# accs_000_u.ydd
+[ accs_000_u.ydd
     Object: White Incomplete Shirt
     Polygons: 302
+    Textures: accs_diff_000_a_uni.ytd
+]
+[ accs_001_u.ydd
+    Objects: White Incomplete Shirt
+    Polygons: 82
+    Textures: accs_diff_000_a_uni.ytd /// accs_diff_001_a_uni.ytd
+]
+[ accs_002_u.ydd
+    Objects: Red Checkerboard Square
+    Polygons: 2
+    Textures: accs_diff_002_a_uni.ytd /// lowr_diff_002_a_whi.ytd
+]
