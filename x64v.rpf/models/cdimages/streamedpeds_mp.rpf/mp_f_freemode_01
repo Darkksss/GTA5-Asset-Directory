@@ -142,3 +142,411 @@
     Textures: decl_diff_007_a_uni.ytd /// berd_diff_007_a_uni.ytd
     Embedded Textures: berd_normal_007 /// berd_spec_007
 ]
+[ decl_000_u.ydd
+    Objects: ? UNKNOWN ?
+    Polygons: 2
+    Textures: decl_diff_000_a_uni.ytd
+    Embedded Textures: NONE
+]
+[ decl_001_u.ydd
+    Objects: ? UNKNOWN ?
+    Polygons: 40
+    Textures: decl_diff_001_a_uni.ytd
+    Embedded Textures: decl_spec_000 /// decl_normal_000
+]
+[ decl_002_u.ydd
+    Objects: ? UNKNOWN ?
+    Polygons: 9
+    Textures: decl_diff_002_a_uni.ytd
+    Embedded Textures: decl_spec_000 /// decl_normal_000
+]
+[ decl_003_u.ydd
+    Objects: ? UNKNOWN ?
+    Polygons: 40
+    Textures: decl_diff_003_a_uni.ytd
+    Embedded Textures: decl_spec_000 /// decl_normal_000
+]
+[ decl_004_u.ydd
+    Objects: ? UNKNOWN ?
+    Polygons: 8
+    Textures: decl_diff_004_a_uni.ytd
+    Embedded Textures: decl_spec_000 /// decl_normal_000
+]
+[ decl_005_u.ydd
+    Objects: ? UNKNOWN ?
+    Polygons: 60
+    Textures: decl_diff_005_a_uni.ytd
+    Embedded Textures: decl_spec_000 /// decl_normal_000
+]
+[ feet_000_r.ydd
+    Objects: Charcoal Platforms
+    Polygons: 774
+    Textures: feet_diff_000_a_whi.ytd
+    Embedded Textures: feet_normal_000 /// feet_spec_000
+]
+[ feet_001_u.ydd
+    Objects: White Two-Tone Backside
+    Polygons: 692
+    Textures: feet_diff_001_a_uni.ytd
+    Embedded Textures: feet_spec_001 /// feet_normal_001
+]
+[ feet_002_u.ydd
+    Objects: Sheepskin Winter Boots
+    Polygons: 676
+    Textures: feet_diff_002_a_uni.ytd
+    Embedded Textures: feet_spec_002 /// feet_normal_002
+]
+[ feet_003_u.ydd
+    Objects: Black Canvas
+    Polygons: 708
+    Textures: feet_diff_003_a_uni.ytd
+    Embedded Textures: feet_spec_003 /// feet_normal_003
+]
+[ feet_004_u.ydd
+    Objects: Black Sports
+    Polygons: 852
+    Textures: feet_diff_004_a_uni.ytd
+    Embedded Textures: feet_normal_004 /// feet_spec_004
+]
+[ feet_005_r.ydd
+    Objects: Gray Flip-Flops
+    Polygons: 1,408
+    Textures: feet_diff_005_a_whi.ytd
+    Embedded Textures: feet_spec_005 /// feet_normal_005
+]
+[ feet_006_r.ydd
+    Objects: Black Patent Heels
+    Polygons: 826
+    Textures: feet_diff_006_a_whi.ytd
+    Embedded Textures: feet_normal_006 /// feet_spec_006
+]
+[ feet_007_u.ydd
+    Objects: Deluxe Midnight Combat
+    Polygons: 2,112
+    Textures: feet_diff_007_a_uni.ytd
+    Embedded Textures: feet_spec_007 /// feet_normal_007
+]
+[ feet_008_r.ydd
+    Objects: Black Ankle Boots
+    Polygons: 2,208
+    Textures: feet_diff_008_a_whi.ytd
+    Embedded Textures: feet_spec_008 /// feet_normal_008
+]
+[ feet_009_u.ydd
+    Objects: Licorice Knee High
+    Polygons: 2,080
+    Textures: feet_diff_009_a_uni.ytd
+    Embedded Textures: feet_spec_009 /// feet_normal_009
+]
+[ feet_010_u.ydd
+    Objects: Purple Accent Runners
+    Polygons: 964
+    Textures: feet_diff_010_a_uni.ytd
+    Embedded Textures: feet_normal_010 /// feet_spec_010
+]
+[ feet_011_u.ydd
+    Objects: Purple High Tops
+    Polygons: 556
+    Textures: feet_diff_011_a_uni.ytd
+    Embedded Textures: feet_normal_011 /// feet_spec_011
+]
+[ feet_012_u.ydd
+    Objects: Checkerboard Square
+    Polygons: 2
+    Textures: feet_diff_012_a_uni.ytd
+    Embedded Textures: feet_spec_012 /// feet_normal_012
+]
+[ feet_013_r.ydd
+    Objects: Charcoal Round Toed
+    Polygons: 636
+    Textures: feet_diff_013_a_whi.ytd
+    Embedded Textures: feet_normal_013 /// feet_spec_013
+]
+[ feet_014_r.ydd
+    Objects: Black Strappy
+    Polygons: 2,614
+    Textures: feet_diff_014_a_whi.ytd
+    Embedded Textures: feet_spec_014 /// feet_normal_014
+]
+[ feet_015_r.ydd
+    Objects: Khol Sandals
+    Polygons: 1,942
+    Textures: feet_diff_015_a_whi.ytd /// feet_diff_005_a_whi.ytd
+    Embedded Textures: feet_spec_015 /// feet_normal_015
+]
+[ hair_000_u.ydd
+    Objects: Orange Checkerboard Square
+    Polygons: 2
+    Textures: hair_diff_000_a_uni.ytd
+    Embedded Textures: hair_spec_000 /// hair_normal_000
+]
+[ hair_001_u.ydd
+    Objects: Short
+    Polygons: 3,664
+    Textures: hair_diff_001_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_001
+]
+[ hair_001_u_1.ydd
+    Objects: Short
+    Polygons: 422
+    Textures: hair_diff_001_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_001
+]
+[ hair_001_u_2.ydd
+    Objects: Short
+    Polygons: 3,262
+    Textures: hair_diff_001_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_001
+]
+[ hair_002_u.ydd
+    Objects: Layered Bob
+    Polygons: 3,454
+    Textures: hair_diff_002_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_002
+]
+[ hair_002_u_1.ydd
+    Objects: Layered Bob
+    Polygons: 766
+    Textures: hair_diff_002_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_002
+]
+[ hair_002_u_2.ydd
+    Objects: Layered Bob
+    Polygons: 3,042
+    Textures: hair_diff_002_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_002
+]
+[ hair_003_u.ydd
+    Objects: Pigtails
+    Polygons: 3,542
+    Textures: hair_diff_003_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_003
+]
+[ hair_003_u_1.ydd
+    Objects: Pigtails
+    Polygons: 4
+    Textures: hair_diff_003_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_003
+]
+[ hair_003_u_2.ydd
+    Objects: Pigtails
+    Polygons: 3,432
+    Textures: hair_diff_003_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_003
+]
+[ hair_004_u.ydd
+    Objects: Ponytail
+    Polygons: 3,784
+    Textures: hair_diff_004_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_004
+]
+[ hair_004_u_1.ydd
+    Objects: Ponytail
+    Polygons: 86
+    Textures: hair_diff_004_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_004
+]
+[ hair_004_u_2.ydd
+    Objects: Ponytail
+    Polygons: 3,554
+    Textures: hair_diff_004_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_004
+]
+[ hair_005_u.ydd
+    Objects: Braided Mohawk
+    Polygons: 3,578
+    Textures: hair_diff_005_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_005
+]
+[ hair_005_u_1.ydd
+    Objects: Braided Mohawk
+    Polygons: 298
+    Textures: hair_diff_005_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_005
+]
+[ hair_005_u_2.ydd
+    Objects: Braided Mohawk
+    Polygons: 3,262
+    Textures: hair_diff_005_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_005
+]
+[ hair_006_u.ydd
+    Objects: Braids
+    Polygons: 3,160
+    Textures: hair_diff_006_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_006
+]
+[ hair_006_u_1.ydd
+    Objects: Braids
+    Polygons: 4
+    Textures: hair_diff_006_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_006
+]
+[ hair_006_u_2.ydd
+    Objects: Braids
+    Polygons: 3,160
+    Textures: hair_diff_006_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_006
+]
+[ hair_007_u.ydd
+    Objects: Bob
+    Polygons: 3,144
+    Textures: hair_diff_007_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_007
+]
+[ hair_007_u_1.ydd
+    Objects: Bob
+    Polygons: 476
+    Textures: hair_diff_007_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_007
+]
+[ hair_007_u_2.ydd
+    Objects: Bob
+    Polygons: 2,760
+    Textures: hair_diff_007_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_007
+]
+[ hair_008_u.ydd
+    Objects: Faux Hawk
+    Polygons: 3,376
+    Textures: hair_diff_008_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_008
+]
+[ hair_008_u_1.ydd
+    Objects: Faux Hawk
+    Polygons: 368
+    Textures: hair_diff_008_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_008
+]
+[ hair_008_u_2.ydd
+    Objects: Faux Hawk
+    Polygons: 3,376
+    Textures: hair_diff_008_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_008
+]
+[ hair_009_u.ydd
+    Objects: French Twist
+    Polygons: 3,778
+    Textures: hair_diff_009_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_009
+]
+[ hair_009_u_1.ydd
+    Objects: French Twist
+    Polygons: 422
+    Textures: hair_diff_009_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_009
+]
+[ hair_009_u_2.ydd
+    Objects: French Twist
+    Polygons: 3,476
+    Textures: hair_diff_009_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_009
+]
+[ hair_010_u.ydd
+    Objects: Long Bob
+    Polygons: 3,622
+    Textures: hair_diff_010_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_010
+]
+[ hair_010_u_1.ydd
+    Objects: Long Bob
+    Polygons: 420
+    Textures: hair_diff_010_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_010
+]
+[ hair_010_u_2.ydd
+    Objects: Long Bob
+    Polygons: 3,246
+    Textures: hair_diff_010_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_010
+]
+[ hair_011_u.ydd
+    Objects: Loose Tied
+    Polygons: 3,646
+    Textures: hair_diff_011_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_011
+]
+[ hair_011_u_1.ydd
+    Objects: Loose Tied
+    Polygons: 344
+    Textures: hair_diff_011_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_011
+]
+[ hair_011_u_2.ydd
+    Objects: Loose Tied
+    Polygons: 3,248
+    Textures: hair_diff_011_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_011
+]
+[ hair_012_u.ydd
+    Objects: Pixie
+    Polygons: 3,528
+    Textures: hair_diff_012_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_012
+]
+[ hair_012_u_1.ydd
+    Objects: Pixie
+    Polygons: 684
+    Textures: hair_diff_012_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_012
+]
+[ hair_012_u_2.ydd
+    Objects: Pixie
+    Polygons: 3,240
+    Textures: hair_diff_012_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_012
+]
+[ hair_013_u.ydd
+    Objects: Shaved Bangs
+    Polygons: 3,240
+    Textures: hair_diff_013_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_013
+]
+[ hair_013_u_1.ydd
+    Objects: Shaved Bangs
+    Polygons: 300
+    Textures: hair_diff_013_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_013
+]
+[ hair_013_u_2.ydd
+    Objects: Shaved Bangs
+    Polygons: 2,760
+    Textures: hair_diff_013_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_013
+]
+[ hair_014_u.ydd
+    Objects: Top Knot
+    Polygons: 3,578
+    Textures: hair_diff_014_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_014
+]
+[ hair_014_u_1.ydd
+    Objects: Top Knot
+    Polygons: 480
+    Textures: hair_diff_014_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_014
+]
+[ hair_014_u_2.ydd
+    Objects: Top Knot
+    Polygons: 3,578
+    Textures: hair_diff_014_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_014
+]
+[ hair_015_u.ydd
+    Objects: Wavy Bob
+    Polygons: 3,916
+    Textures: hair_diff_015_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_015
+]
+[ hair_015_u_1.ydd
+    Objects: Wavy Bob
+    Polygons: 400
+    Textures: hair_diff_015_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_015
+]
+[ hair_015_u_2.ydd
+    Objects: Wavy Bob
+    Polygons: 2,788
+    Textures: hair_diff_015_a_uni.ytd
+    Embedded Textures: hair_spec_001 /// hair_normal_015
+]
