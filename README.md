@@ -18,4 +18,4 @@ TOTAL SIZE: 29.4KB
 
 **L2\:** *".xml"*: Like YMT files, these are also easy to read. These use tags to define and structure data.
 
-**L2\:** *".meta"*: These like YMT and XML files are also easy to read. These can act as instructions or map to handel
+**L2\:** *".meta"*: These like YMT and XML files are also easy to read. These can act as instructions or map to handle data.
