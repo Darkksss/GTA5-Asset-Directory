@@ -1276,3 +1276,262 @@
     Textures: uppr_diff_015_a_whi.ytd
     Embedded Textures: uppr_spec_000 /// uppr_normal_000
 ]
+
+DRAWABLE OBJECT
+
+[ micro_brow_down.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_brow_in.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_brow_out.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_brow_up.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_cheek_down.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_cheek_gaunt.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_cheek_in.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_cheek_out.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_cheek_puffed.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_cheek_up.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_bum.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_down.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_in.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_out.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_pointed.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_square.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_chin_up.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_eyes_squinted.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_eyes_wide.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_001_r_male_white_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_002_r_male_black_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_003_r_male_black_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_004_r_male_latino_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_005_r_male_latino_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_006_r_male_chinese_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_007_r_male_chinese_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_008_r_male_indian_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_009_r_male_indian_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_010_r_male_polynesian_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_011_r_male_polynesian_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_012_r_male_extra_head_whi.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_013_r_male_ng_head_whi.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_014_r_male_ng_head_bla.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_015_r_male_ng_head_bla2.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_016_r_male_ng_head_lat.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_017_r_extra_head_chi.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_018_r_male_ng_head_chi.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_019_r_male_ng_head_pak.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_020_r_male_ng_head_ara.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_021_r_female_white_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_022_r_female_white_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_023_r_female_black_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_024_r_female_black_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_025_r_female_latino_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_026_r_female_latino_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_027_r_female_chinese_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_028_r_female_chinese_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_029_r_female_indian_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_030_r_female_indian_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_031_r_female_polynesian_beauty.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_032_r_female_polynesian_beast.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_033_r_female_ng_whi.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_034_r_female_ng_whi2.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_035_r_female_extra_head_fem_bla.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_036_r_female_ng_bla.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_037_r_female_extra_head_fem_lat.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_038_r_female_ng_lat.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_039_r_female_ng_chi.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_040_r_female_ng_chi2.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_041_r_female_ng_pol.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_042_r_claude_morph.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_043_r_niko_bellic.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_044_r_john_marston.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
+[ micro_head_045_r_misty_morph.ydr
+    Usage: Likely For Character Creator
+    Polygons: 2,700
+]
