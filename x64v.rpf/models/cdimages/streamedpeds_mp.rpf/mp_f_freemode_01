@@ -550,3 +550,333 @@
     Textures: hair_diff_015_a_uni.ytd
     Embedded Textures: hair_spec_001 /// hair_normal_015
 ]
+[ hand_000_u.ydd
+    Objects: Yellow Checkerboard Square
+    Polygons: 2
+    Textures: hand_diff_000_a_uni.ytd
+    Embedded Textures: hand_spec_000 /// hand_normal_000
+]
+[ hand_001_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,448
+    Textures: hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_pall_001_x /// hand_spec_001 /// hand_normal_001
+]
+[ hand_002_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,447
+    Textures: hand_diff_002_a_uni.ytd /// hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_spec_001 /// hand_normal_001 /// hand_pall_002_x
+]
+[ hand_003_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,448
+    Textures: hand_diff_003_a_uni.ytd /// hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_pall_003_x /// hand_spec_001 /// hand_normal_001
+]
+[ hand_004_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,448
+    Textures: hand_diff_004_a_uni.ytd /// hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_spec_001 /// hand_pall_004_x /// hand_normal_001
+]
+[ hand_005_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,448
+    Textures: hand_diff_005_a_uni.ytd /// hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_spec_001 /// hand_normal_001 /// hand_pall_005_x
+]
+[ hand_006_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,447
+    Textures: hand_diff_006_a_uni.ytd /// hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_spec_001 /// hand_normal_001 /// hand_pall_006_x
+]
+[ hand_007_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,448
+    Textures: hand_diff_007_a_uni.ytd /// hand_diff_001_a_uni.ytd
+    Embedded Textures: hand_spec_001 /// hand_pall_007_x /// hand_normal_001
+]
+[ hand_008_u.ydd
+    Objects: Parachute Bag (UNKNOWN COLORING)
+    Polygons: 3,448
+    Textures: hand_diff_008_a_uni.ytd
+    Embedded Textures: hand_spec_001 /// hand_normal_001 /// hand_pall_008_x
+]
+[ head_000_r.ydd
+    Objects: Father (Benjamin)
+    Polygons: 2,700
+    Textures: head_diff_000_a_whi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_000
+]
+[ head_001_r.ydd
+    Objects: Father (Daniel)
+    Polygons: 2,700
+    Textures: head_diff_001_a_whi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_001
+]
+[ head_002_r.ydd
+    Objects: Father (Joshua)
+    Polygons: 2,700
+    Textures: head_diff_002_a_bla.ytd
+    Embedded Textures: head_normal_002 /// head_spec_000
+]
+[ head_003_r.ydd
+    Objects: Father (Noah)
+    Polygons: 2,700
+    Textures: head_diff_003_a_bla.ytd
+    Embedded Textures: head_spec_000 /// head_normal_003
+]
+[ head_004_r.ydd
+    Objects: Father (Andrew)
+    Polygons: 2,700
+    Textures: head_diff_004_a_lat.ytd
+    Embedded Textures: head_spec_000 /// head_normal_004
+]
+[ head_005_r.ydd
+    Objects: Father (Joan)
+    Polygons: 2,700
+    Textures: head_diff_005_a_lat.ytd
+    Embedded Textures: head_normal_005 /// head_spec_000
+]
+[ head_006_r.ydd
+    Objects: Father (Alex)
+    Polygons: 2,700
+    Textures: head_diff_006_a_chi.ytd
+    Embedded Textures: head_normal_006 /// head_spec_000
+]
+[ head_007_r.ydd
+    Objects: Father (Isaac)
+    Polygons: 2,700
+    Textures: head_diff_007_a_chi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_007
+]
+[ head_008_r.ydd
+    Objects: Father (Evan)
+    Polygons: 2,700
+    Textures: head_diff_008_a_pak.ytd
+    Embedded Textures: head_normal_008 /// head_spec_000
+]
+[ head_009_r.ydd
+    Objects: Father (Ethan)
+    Polygons: 2,700
+    Textures: head_diff_009_a_pak.ytd
+    Embedded Textures: head_spec_000 /// head_normal_009
+]
+[ head_010_r.ydd
+    Objects: Father (Vincent)
+    Polygons: 2,700
+    Textures: head_diff_010_a_ara.ytd
+    Embedded Textures: head_spec_000 /// head_normal_010
+]
+[ head_011_r.ydd
+    Objects: Father (Angel)
+    Polygons: 2,700
+    Textures: head_diff_011_a_ara.ytd
+    Embedded Textures: head_spec_000 /// head_normal_011
+]
+[ head_012_r.ydd
+    Objects: Father (Diego)
+    Polygons: 2,700
+    Textures: head_diff_012_a_whi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_012
+]
+[ head_013_r.ydd
+    Objects: Father (Adrian)
+    Polygons: 2,700
+    Textures: head_diff_013_a_whi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_013
+]
+[ head_014_r.ydd
+    Objects: Father (Gabriel)
+    Polygons: 2,700
+    Textures: head_diff_014_a_bla.ytd
+    Embedded Textures: head_spec_000 /// head_normal_014
+]
+[ head_015_r.ydd
+    Objects: Father (Michael)
+    Polygons: 2,700
+    Textures: head_diff_015_a_bla.ytd
+    Embedded Textures: head_spec_000 /// head_normal_015
+]
+[ head_016_r.ydd
+    Objects: Father (Santiago)
+    Polygons: 2,700
+    Textures: head_diff_016_a_lat.ytd
+    Embedded Textures: head_spec_000 /// head_normal_016
+]
+[ head_017_r.ydd
+    Objects: Father (Kevin)
+    Polygons: 2,700
+    Textures: head_diff_017_a_chi.ytd
+    Embedded Textures: head_normal_017 /// head_spec_000
+]
+[ head_018_r.ydd
+    Objects: Father (Louis)
+    Polygons: 2,700
+    Textures: head_diff_018_a_chi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_018
+]
+[ head_019_r.ydd
+    Objects: Father (Samuel)
+    Polygons: 2,700
+    Textures: head_diff_019_a_pak.ytd
+    Embedded Textures: head_spec_000 /// head_normal_019
+]
+[ head_020_r.ydd
+    Objects: Father (Anthony)
+    Polygons: 2,700
+    Textures: head_diff_020_a_ara.ytd
+    Embedded Textures: head_spec_000 /// head_normal_020
+]
+[ head_021_r.ydd
+    Objects: Mother (Hannah)
+    Polygons: 2,700
+    Textures: head_diff_021_a_whi.ytd
+    Embedded Textures: head_normal_021 /// head_spec_000
+]
+[ head_022_r.ydd
+    Objects: Mother (Audrey)
+    Polygons: 2,700
+    Textures: head_diff_022_a_whi.ytd
+    Embedded Textures: head_normal_022 /// head_spec_000
+]
+[ head_023_r.ydd
+    Objects: Mother (Jasmine)
+    Polygons: 2,700
+    Textures: head_diff_023_a_bla.ytd
+    Embedded Textures: head_normal_023 /// head_spec_000
+]
+[ head_024_r.ydd
+    Objects: Mother (Giselle)
+    Polygons: 2,700
+    Textures: head_diff_024_a_bla.ytd
+    Embedded Textures: head_normal_024 /// head_spec_000
+]
+[ head_025_r.ydd
+    Objects: Mother (Amelia)
+    Polygons: 2,700
+    Textures: head_diff_025_a_lat.ytd
+    Embedded Textures: head_normal_025 /// head_spec_000
+]
+[ head_026_r.ydd
+    Objects: Mother (Isabella)
+    Polygons: 2,700
+    Textures: head_diff_026_a_lat.ytd
+    Embedded Textures: head_normal_026 /// head_spec_000
+]
+[ head_027_r.ydd
+    Objects: Mother (Zoe)
+    Polygons: 2,700
+    Textures: head_diff_027_a_chi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_027
+]
+[ head_028_r.ydd
+    Objects: Mother (Ava)
+    Polygons: 2,700
+    Textures: head_diff_028_a_chi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_028
+]
+[ head_029_r.ydd
+    Objects: Mother (Camilla)
+    Polygons: 2,700
+    Textures: head_diff_029_a_pak.ytd
+    Embedded Textures: head_spec_000 /// head_normal_029
+]
+[ head_030_r.ydd
+    Objects: Mother (Violet)
+    Polygons: 2,700
+    Textures: head_diff_030_a_pak.ytd
+    Embedded Textures: head_spec_000 /// head_normal_030
+]
+[ head_031_r.ydd
+    Objects: Mother (Sophia)
+    Polygons: 2,700
+    Textures: head_diff_031_a_ara.ytd
+    Embedded Textures: head_spec_000 /// head_normal_031
+]
+[ head_032_r.ydd
+    Objects: Mother (Eveline)
+    Polygons: 2,700
+    Textures: head_diff_032_a_ara.ytd
+    Embedded Textures: head_spec_000 /// head_normal_032
+]
+[ head_033_r.ydd
+    Objects: Mother (Nicole)
+    Polygons: 2,700
+    Textures: head_diff_033_a_whi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_033
+]
+[ head_034_r.ydd
+    Objects: Mother (Ashley)
+    Polygons: 2,700
+    Textures: head_diff_034_a_whi.ytd
+    Embedded Textures: head_normal_034 /// head_spec_000
+]
+[ head_035_r.ydd
+    Objects: Mother (Grace)
+    Polygons: 2,700
+    Textures: head_diff_035_a_bla.ytd
+    Embedded Textures: head_normal_035 /// head_spec_000
+]
+[ head_036_r.ydd
+    Objects: Mother (Brianna)
+    Polygons: 2,700
+    Textures: head_diff_036_a_bla.ytd
+    Embedded Textures: head_normal_036 /// head_spec_000
+]
+[ head_037_r.ydd
+    Objects: Mother (Natalie)
+    Polygons: 2,700
+    Textures: head_diff_037_a_lat.ytd
+    Embedded Textures: head_normal_037 /// head_spec_000
+]
+[ head_038_r.ydd
+    Objects: Mother (Olivia)
+    Polygons: 2,700
+    Textures: head_diff_038_a_lat.ytd
+    Embedded Textures: head_spec_000 /// head_normal_038
+]
+[ head_039_r.ydd
+    Objects: Mother (Elizabeth)
+    Polygons: 2,700
+    Textures: head_diff_039_a_chi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_039
+]
+[ head_040_r.ydd
+    Objects: Mother (Charlotte)
+    Polygons: 2,700
+    Textures: head_diff_040_a_chi.ytd
+    Embedded Textures: head_normal_040 /// head_spec_000
+]
+[ head_041_r.ydd
+    Objects: Mother (Emma)
+    Polygons: 2,700
+    Textures: head_diff_041_a_ara.ytd
+    Embedded Textures: head_spec_000 /// head_normal_041
+]
+[ head_042_r.ydd
+    Objects: Father (John)
+    Polygons: 2,700
+    Textures: head_diff_042_a_whi.ytd
+    Embedded Textures: head_normal_042 /// head_spec_000
+]
+[ head_043_r.ydd
+    Objects: Father (Niko)
+    Polygons: 2,700
+    Textures: head_diff_043_a_whi.ytd
+    Embedded Textures: head_normal_043 /// head_spec_000
+]
+[ head_044_r.ydd
+    Objects: Father (Claude)
+    Polygons: 2,700
+    Textures: head_diff_044_a_whi.ytd
+    Embedded Textures: head_normal_044 /// head_spec_000
+]
+[ head_045_r.ydd
+    Objects: Mother (Misty)
+    Polygons: 2,700
+    Textures: head_diff_045_a_whi.ytd
+    Embedded Textures: head_spec_000 /// head_normal_045
+]
