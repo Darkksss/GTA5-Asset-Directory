@@ -1072,3 +1072,207 @@
     Textures: lowr_diff_015_a_whi.ytd
     Embedded Textures: jbib_normal_015 /// jbib_spec_015
 ]
+[ task_000_u.ydd
+    Objects: Dark Green Checkerboard Square
+    Polygons: 2
+    Textures: task_diff_000_a_uni.ytd
+    Embedded Textures: task_normal_000 /// task_spec_000
+]
+[ task_001_u.ydd
+    Objects: Standard Armor
+    Polygons: 1,076
+    Textures: task_diff_001_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ task_002_u.ydd
+    Objects: Standard Armor
+    Polygons: 1,076
+    Textures: task_diff_002_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ task_003_u.ydd
+    Objects: Standard Armor
+    Polygons: 1,076
+    Textures: task_diff_003_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ task_004_u.ydd
+    Objects: Incomplete Standard Armor
+    Polygons: 386
+    Textures: task_diff_004_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ task_005_u.ydd
+    Objects: Incomplete Standard Armor
+    Polygons: 108
+    Textures: task_diff_005_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ task_006_u.ydd
+    Objects: Standard Armor
+    Polygons: 1,076
+    Textures: task_diff_006_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ task_007_u.ydd
+    Objects: Standard Armor
+    Polygons: 1,076
+    Textures: task_diff_007_a_uni.ytd
+    Embedded Textures: task_spec_001 /// task_normal_001
+]
+[ teef_000_u.ydd
+    Objects: Pink Checkerboard Square
+    Polygons: 2
+    Textures: teef_diff_000_a_uni.ytd
+    Embedded Textures: teef_spec_000 /// teef_normal_000
+]
+[ teef_001_u.ydd
+    Objects: Gold Deco Earrings
+    Polygons: 296
+    Textures: teef_diff_001_a_uni.ytd
+    Embedded Textures: teef_spec_000 /// teef_normal_000
+]
+[ teef_002_u.ydd
+    Objects: Gold Hoop Earrings
+    Polygons: 200
+    Textures: teef_diff_002_a_uni.ytd
+    Embedded Textures: teef_spec_000 /// teef_normal_000
+]
+[ teef_003_u.ydd
+    Objects: Harsh Soul Sweatband
+    Polygons: 140
+    Textures: teef_diff_003_a_uni.ytd
+    Embedded Textures: teef_spec_003 /// teef_normal_003
+]
+[ teef_004_u.ydd
+    Objects: Checkerboard Bangles
+    Polygons: 396
+    Textures: teef_diff_004_a_uni.ytd
+    Embedded Textures: teef_spec_000 /// teef_normal_000
+]
+[ teef_005_u.ydd
+    Objects: Checkerboard Leather Straps
+    Polygons: 112
+    Textures: teef_diff_005_a_uni.ytd
+    Embedded Textures: teef_spec_005 /// teef_normal_005
+]
+[ teef_006_u.ydd
+    Objects: Onyx Pendant
+    Polygons: 263
+    Textures: teef_diff_006_a_uni.ytd
+    Embedded Textures: teef_spec_000 /// teef_normal_000
+]
+[ teef_007_u.ydd
+    Objects: Gold Necklace
+    Polygons: 620
+    Textures: teef_diff_007_a_uni.ytd
+    Embedded Textures: teef_spec_007 /// teef_normal_007
+]
+[ teef_008_u.ydd
+    Objects: Checkerboard Square
+    Polygons: 4
+    Textures: teef_diff_008_a_uni.ytd
+    Embedded Textures: teef_spec_008 /// teef_normal_008
+]
+[ teef_009_u.ydd
+    Objects: Black Tassel Scarf
+    Polygons: 3,632
+    Textures: teef_diff_009_a_uni.ytd
+    Embedded Textures: teef_spec_009 /// teef_normal_009
+]
+[ uppr_000_r.ydd
+    Objects: Incomplete Upper Body (Upper Chest/Arms/Hands)
+    Polygons: 6,102
+    Textures: uppr_diff_000_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_001_r.ydd
+    Objects: Incomplete Upper Body (Upper Chest/Half Arms/Hands)
+    Polygons: 5,662
+    Textures: uppr_diff_001_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_002_r.ydd
+    Objects: Incomplete Upper Body (Clavicles/Arms/Hands)
+    Polygons: 6,069
+    Textures: uppr_diff_002_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_003_r.ydd
+    Objects: Incomplete Upper Body (Hands)
+    Polygons: 5,266
+    Textures: uppr_diff_003_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_004_r.ydd
+    Objects: Incomplete Upper Body (Semi-Full Chest/Full Arms/Hands)
+    Polygons: 6,812
+    Textures: uppr_diff_004_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_005_r.ydd
+    Objects: Incomplete Upper Body (Center Chest/Half Arms/Hands)
+    Polygons: 5,870
+    Textures: uppr_diff_005_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_006_r.ydd
+    Objects: Incomplete Upper Body (Semi-Full Chest/Hands)
+    Polygons: 5,688
+    Textures: uppr_diff_006_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_007_r.ydd
+    Objects: Incomplete Upper Body (Upper Chest/Hands)
+    Polygons: 10,972
+    Textures: uppr_diff_007_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_008_r.ydd
+    Objects: Body Texture Square
+    Polygons: 4
+    Textures: uppr_diff_008_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_009_r.ydd
+    Objects: Incomplete Upper Body (Clavicles/Arms/Hands)
+    Polygons: 11,640
+    Textures: uppr_diff_009_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_010_r.ydd
+    Objects: Body Texture Square
+    Polygons: 2
+    Textures: uppr_diff_010_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_011_r.ydd
+    Objects: Incomplete Upper Body (Upper Chest/Arms/Hands)
+    Polygons: 6,486
+    Textures: uppr_diff_011_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_012_r.ydd
+    Objects: Incomplete Upper Body (Upper Chest/Lower Torso/Arms/Hands)
+    Polygons: 6,536
+    Textures: uppr_diff_012_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_013_r.ydd
+    Objects: Body Texture Square
+    Polygons: 2
+    Textures: uppr_diff_013_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_014_r.ydd
+    Objects: Incomplete Upper Body (Clavicles/Arms/Hands)
+    Polygons: 5,888
+    Textures: uppr_diff_014_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
+[ uppr_015_r.ydd
+    Objects: Full Upper Body
+    Polygons: 6,928
+    Textures: uppr_diff_015_a_whi.ytd
+    Embedded Textures: uppr_spec_000 /// uppr_normal_000
+]
