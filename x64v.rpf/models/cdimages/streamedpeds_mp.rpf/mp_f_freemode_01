@@ -880,3 +880,195 @@
     Textures: head_diff_045_a_whi.ytd
     Embedded Textures: head_spec_000 /// head_normal_045
 ]
+[ jbib_000_u.ydd
+    Objects: T-Shirt (UNKNOWN COLORING)
+    Polygons: 958
+    Textures: jbib_diff_000_a_uni.ytd
+    Embedded Textures: jbib_normal_000 /// jbib_pall_000_x /// jbib_spec_000
+]
+[ jbib_001_u.ydd
+    Objects: Distressed Denim Jacket
+    Polygons: 2,758
+    Textures: jbib_diff_001_a_uni.ytd
+    Embedded Textures: jbib_normal_001 /// jbib_spec_001
+]
+[ jbib_002_u.ydd
+    Objects: Eris Top
+    Polygons: 1,080
+    Textures: jbib_diff_002_a_uni.ytd
+    Embedded Textures: jbib_spec_002 /// jbib_normal_002
+]
+[ jbib_003_u.ydd
+    Objects: Pounders Hoodie
+    Polygons: 3,266
+    Textures: jbib_diff_003_a_uni.ytd
+    Embedded Textures: jbib_normal_003 /// jbib_spec_003
+]
+[ jbib_004_u.ydd
+    Objects: Checkerboard Tank Top
+    Polygons: 728
+    Textures: jbib_diff_004_a_uni.ytd
+    Embedded Textures: jbib_spec_004 /// jbib_normal_004
+]
+[ jbib_005_u.ydd
+    Objects: Off-White Cropped Tank
+    Polygons: 608
+    Textures: jbib_diff_005_a_uni.ytd
+    Embedded Textures: jbib_normal_005 /// jbib_spec_005
+]
+[ jbib_006_u.ydd
+    Objects: Black Tux
+    Polygons: 1,766
+    Textures: jbib_diff_006_a_uni.ytd
+    Embedded Textures: jbib_spec_006 /// jbib_normal_006
+]
+[ jbib_007_u.ydd
+    Objects: Slate Blazer
+    Polygons: 2,228
+    Textures: jbib_diff_007_a_uni.ytd
+    Embedded Textures: jbib_spec_007 /// jbib_normal_007
+]
+[ jbib_008_u.ydd
+    Objects: Gray Cropped Biker
+    Polygons: 1,981
+    Textures: jbib_diff_008_a_uni.ytd
+    Embedded Textures: jbib_spec_008 /// jbib_normal_008
+]
+[ jbib_009_u.ydd
+    Objects: Charcoal Shirt
+    Polygons: 1,918
+    Textures: jbib_diff_009_a_uni.ytd
+    Embedded Textures: jbib_spec_009 /// jbib_normal_009
+]
+[ jbib_010_u.ydd
+    Objects: Stripe Track Jacket
+    Polygons: 3,093
+    Textures: jbib_diff_010_a_uni.ytd
+    Embedded Textures: jbib_normal_010 /// jbib_spec_010
+]
+[ jbib_011_u.ydd
+    Objects: Sky Blue Racerback
+    Polygons: 894
+    Textures: jbib_diff_011_a_uni.ytd
+    Embedded Textures: jbib_spec_011 /// jbib_normal_011
+]
+[ jbib_012_u.ydd
+    Objects: Checkerboard Camisole
+    Polygons: 1,006
+    Textures: jbib_diff_012_a_uni.ytd
+    Embedded Textures: jbib_normal_012 /// jbib_spec_012
+]
+[ jbib_013_u.ydd
+    Objects: Black Bustier
+    Polygons: 742
+    Textures: jbib_diff_013_a_uni.ytd
+    Embedded Textures: jbib_spec_013 /// jbib_normal_013
+]
+[ jbib_014_u.ydd
+    Objects: Gray Polo Shirt
+    Polygons: 1,666
+    Textures: jbib_diff_014_a_uni.ytd
+    Embedded Textures: jbib_normal_014 /// jbib_spec_014
+]
+[ jbib_015_u.ydd
+    Objects: Black Bikini
+    Polygons: 1,030
+    Textures: jbib_diff_015_a_uni.ytd
+    Embedded Textures: jbib_normal_015 /// jbib_spec_015
+]
+[ lowr_000_r.ydd
+    Objects: Navy Blue Skinny
+    Polygons: 1,196
+    Textures: lowr_diff_000_a_whi.ytd
+    Embedded Textures: jbib_spec_000 /// jbib_normal_000
+]
+[ lowr_001_r.ydd
+    Objects: Faded Dark Blue Regular Fit
+    Polygons: 1,624
+    Textures: lowr_diff_001_a_whi.ytd
+    Embedded Textures: jbib_spec_001 /// jbib_normal_001
+]
+[ lowr_002_r.ydd
+    Objects: Ash Rollups
+    Polygons: 1,734
+    Textures: lowr_diff_002_a_whi.ytd
+    Embedded Textures: jbib_spec_002 /// jbib_normal_002
+]
+[ lowr_003_r.ydd
+    Objects: Black Chinos
+    Polygons: 1,742
+    Textures: lowr_diff_003_a_whi.ytd
+    Embedded Textures: jbib_spec_003 /// jbib_normal_003
+]
+[ lowr_004_r.ydd
+    Objects: Slate Cropped
+    Polygons: 1,475
+    Textures: lowr_diff_004_a_whi.ytd
+    Embedded Textures: jbib_spec_004 /// jbib_normal_004
+]
+[ lowr_005_r.ydd
+    Objects: Checkerboard Denim Shorts
+    Polygons: 1,358
+    Textures: lowr_diff_005_a_whi.ytd
+    Embedded Textures: jbib_normal_005 /// jbib_spec_005
+]
+[ lowr_006_r.ydd
+    Objects: Black Suit
+    Polygons: 1,152
+    Textures: lowr_diff_006_a_whi.ytd
+    Embedded Textures: jbib_normal_006 /// jbib_spec_006
+]
+[ lowr_007_r.ydd
+    Objects: Black Pencil
+    Polygons: 2,156
+    Textures: lowr_diff_007_a_whi.ytd
+    Embedded Textures: jbib_normal_007 /// jbib_spec_007
+]
+[ lowr_008_r.ydd
+    Objects: Black Mini
+    Polygons: 1,668
+    Textures: lowr_diff_008_a_whi.ytd
+    Embedded Textures: jbib_normal_008 /// jbib_spec_008
+]
+[ lowr_009_r.ydd
+    Objects: Black Sequin
+    Polygons: 1,668
+    Textures: lowr_diff_009_a_whi.ytd
+    Embedded Textures: jbib_spec_009 /// jbib_normal_009
+]
+[ lowr_010_r.ydd
+    Objects: White Shorts
+    Polygons: 1,156
+    Textures: lowr_diff_010_a_whi.ytd
+    Embedded Textures: jbib_normal_010 /// jbib_spec_010
+]
+[ lowr_011_r.ydd
+    Objects: Olive Cargos
+    Polygons: 1,621
+    Textures: lowr_diff_011_a_whi.ytd
+    Embedded Textures: jbib_spec_011 /// jbib_normal_011
+]
+[ lowr_012_r.ydd
+    Objects: Pastel Plaid Pleated
+    Polygons: 1,772
+    Textures: lowr_diff_012_a_whi.ytd
+    Embedded Textures: jbib_normal_012 /// jbib_spec_012
+]
+[ lowr_013_r.ydd
+    Objects: Checkerboard Square
+    Polygons: 2
+    Textures: lowr_diff_013_a_whi.ytd
+    Embedded Textures: jbib_normal_013 /// jbib_spec_013
+]
+[ lowr_014_r.ydd
+    Objects: Blue-Gray Shorts
+    Polygons: 1,045
+    Textures: lowr_diff_014_a_whi.ytd
+    Embedded Textures: jbib_normal_014 /// jbib_spec_014
+]
+[ lowr_015_r.ydd
+    Objects: Black Bikini
+    Polygons: 1,000
+    Textures: lowr_diff_015_a_whi.ytd
+    Embedded Textures: jbib_normal_015 /// jbib_spec_015
+]
